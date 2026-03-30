@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(28, 9, 95);
+    color: white;
+    text-align: center;
+}
+
+img {
+    border-radius: 200px;
+}
+
+a {
+    background-color: white;
+    font-size: 20px;
+    color: rgb(28, 9, 95);
+    padding: 10px;
+    border-radius: 15px;
+    display: inline-block;
+    text-align: center;
+    margin: 10px;
+}
+
+#mail,
+#tel {
+    font-size: 15px;
+    font-weight: bold;
+}
